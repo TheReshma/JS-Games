@@ -1,0 +1,12 @@
+ #grid{
+     width: 400px;
+     height: 300px;
+ }
+ div{
+     display: block;
+ }
+
+ button{
+     visibility: hidden;
+     padding: 20px ;
+ }
